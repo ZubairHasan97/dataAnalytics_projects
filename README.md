@@ -1,6 +1,6 @@
 # freeCodeCamp-Projects
 Some basic data science projects using python modules
-demonstrates 
+demonstrating:  
 # Data exploration 
 # Data Visualisation
 # Data cleaning
